@@ -1,4 +1,4 @@
-# docker-intall-Linux
+# docker-install-Linux
 Comandos para instalar linux en Ubuntu
 
 #agregue la llave official GPG de Docker :
